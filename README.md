@@ -1,4 +1,4 @@
-# Telegram Mini App - Production Ready
+# Halyva App
 
 Профессиональный шаблон для разработки Telegram Mini Apps с использованием **Telegram UI** библиотеки.
 
